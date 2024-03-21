@@ -15,7 +15,7 @@ This project demonstrates how to generate a PDF gallery using Python and ReportL
 2. Install the required dependencies:
 
 ```bash
-pip install reportlab pillow
+pip install reportlab
 ```
 ## Usage
 Place your images in the images/ directory.
