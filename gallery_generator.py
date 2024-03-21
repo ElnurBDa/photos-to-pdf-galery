@@ -3,7 +3,6 @@ from reportlab.lib import colors
 from reportlab.lib.units import inch
 from reportlab.lib.pagesizes import letter
 from PIL import Image
-import os
 from datetime import datetime
 
 fileName = 'gallery.pdf'
